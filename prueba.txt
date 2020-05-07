@@ -1,1 +1,2 @@
 Hola soy la primer linea de este archivo de texto
+hola yo soy la segunda linea puesta desde la computadora
